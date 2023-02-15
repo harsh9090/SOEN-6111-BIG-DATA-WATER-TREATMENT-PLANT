@@ -1,5 +1,5 @@
 
-# SOEN 6111 BigData Project
+# SOEN 6111 BigData Project - Team 33
 
 ### **Project Title:**   Water Treatment Plant Data Analysis
 #### **Project Members:** 
