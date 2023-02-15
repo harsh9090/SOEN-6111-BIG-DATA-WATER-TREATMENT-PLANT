@@ -31,7 +31,7 @@ The data set includes a variety of parameters such as:
 
 ## Research Questions
 
-**1.** Based on the raw water features, such as pH, turbidity, hardness, and others, What Chemical Dosages will be needed to make it safe for human consumption or agricultural purposes?
+**1.** Based on the raw water features, such as pH, turbidity, hardness, What Chemical Dosages will be needed to make it safe for human consumption or agricultural purposes?
 
 **2.** How do the levels of pH, chlorine, aluminum, hardness, alkalinity, and aluminum in water change over a specified period, and is there any indication of recurring patterns or trends in the data?
 
