@@ -38,4 +38,4 @@ The data set includes a variety of parameters such as:
 >According to the research, there exists a direct proportionality between the degree of turbidity and the volume of snow melt and rainwater passing through the rock formations. Therefore, correlation analysis will be conducted to explore this intriguing pattern.
 
 ## Evaluation Metrics
-The performance of each algorithm will be evaluated using Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), Mean Squared Error (MSE), and R-squared (R2) metrics.
+The performance of each algorithm will be evaluated using Mean Absolute Error (MAE), Root Mean Squared Error (RMSE),and Mean Squared Error (MSE) metrics.
