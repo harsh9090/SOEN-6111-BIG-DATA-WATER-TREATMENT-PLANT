@@ -31,7 +31,7 @@ The data set includes a variety of parameters such as:
 *2.* How do the levels of Total Dissolved Solids, Turbidity, and hardness, in water change over a specified period, and is there any indication of recurring patterns or trends in the data?
 >Our initial analysis will involve examining measures of central tendency and dispersion. We will then utilise scatter plots and correlation analysis to identify any underlying patterns in the data. To uncover seasonality, trends, and cycles, we will employ techniques such as autocorrelation, decomposition, and the moving average.
 
-*3.* What is the degree of variability in pH measurements in high-volume water processing? Additionally, Develop the prediction model to predict the error rate of the pH level in order to make water human consumable. 
+*3.* With the time series analysis techniques, identify patterns in RawpH, Chlorine, Total Dissolved Solids, Hardness, and Alkalinity over time, and make predictions about their future quantity values in order to have idea about decision-making in water treatment and management. 
 >Initially, the degree of variability of the pH levels is computed based on the raw and finished values. Subsequently, a prediction model is developed to estimate the degree of variability, while considering the volume of water that flows from the plant. SVM and Linear Regression algorithms will be used. 
 
 *4.* What is the variation in turbidity levels in water over a specified period, and is there any indication of increased variability during the snow melting season?
