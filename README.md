@@ -29,6 +29,7 @@ The data set includes a variety of parameters such as:
 >We will be using pH, chlorine, hardness, alkalinity, and aluminium as main features and planning to predict the amount of chemical dosage for chlorine and alum. To achieve this, we will be using multiple linear regression, decision trees, and random forest and XGBoost algorithms and we will compare the results.
 
 *2.* Make forecasts about the future values of Raw pH, Chlorine, Total Dissolved Solids, Hardness, and Alkalinity using time series analytic techniques in order to make decisions on seasonal changes in water treatment.
+>We utilized the Prophet library to train a time-series model for our dataset. The data was transformed into the required format and the model was trained in a distributed manner across all columns. Using this trained model, we generated predictions for the future levels of PH_raw, total dissolved solids, and other water profile features for the next 365 days.
 
 
 ## Evaluation Metrics
